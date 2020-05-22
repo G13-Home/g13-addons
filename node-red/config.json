@@ -3,7 +3,7 @@
   "version": "6.2.0",
   "slug": "nodered",
   "description": "Flow-based programming for the Internet of Things",
-  "url": "https://github.com/michaelstoner/addon-node-red",
+  "url": "https://github.com/G13-Home/g13-addon-node-red",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
   "ingress": true,
   "ingress_port": 0,
